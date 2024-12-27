@@ -52,6 +52,5 @@ This approach can also be extended to **user-to-task** or **user-to-node** match
      "userB -> userA": 0.333,
      "userA -> userC": 0.125,
      "userC -> userA": 0.125,
-     ...
    }
    ```

@@ -47,7 +47,6 @@ This approach can also be extended to **user-to-task** or **user-to-node** match
 4. **JSON Output**  
    Each user pair is stored in a dictionary with a matching score (rounded to 3 decimals for readability). Example:
    ```json
-   Copy code
    {
      "userA -> userB": 0.333,
      "userB -> userA": 0.333,
